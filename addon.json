@@ -1,0 +1,14 @@
+{
+    "ignore": [
+        "*.psd",
+        "*.vcproj",
+        "*.svn*"
+    ],
+    "tags": [
+        "fun",
+        "roleplay"
+    ],
+    "title": "NPC Kill Counter",
+    "type": "effects",
+    "workshopid": 302349639.0
+}
